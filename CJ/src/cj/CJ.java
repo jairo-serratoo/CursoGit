@@ -4,7 +4,9 @@ public class CJ
 {
     public static void main(String[] args)
     {
-        // TODO code application logic here
+        System.out.println("Hola Mundo");
+        System.out.println("Estoy en el curso de Git");
+        System.out.println("Hola");
     }
     
 }
