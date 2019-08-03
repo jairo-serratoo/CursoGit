@@ -7,6 +7,11 @@ public class CJ
         System.out.println("Hola Mundo");
         System.out.println("Estoy en el curso de Git");
         System.out.println("Hola");
+        
+        
+        System.out.println("Hola Mundo");
+        System.out.println("Estoy en el curso de Git");
+        System.out.println("Hola");
     }
     
 }
